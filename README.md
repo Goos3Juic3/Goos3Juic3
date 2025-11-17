@@ -1,6 +1,6 @@
 ## I'm Zac and this is my repository.
 <img width = "500" height = "343" alt = "gif" src = "https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
-<img width="500" height="343" alt="image" src="https://github.com/user-attachments/assets/801d6a98-7f47-40ea-980a-6ece50251cbd" />
+<img width="500" height="343" alt="gif" src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" />
 
 <!--
 **Goos3Juic3/Goos3Juic3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
