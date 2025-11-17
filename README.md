@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="500" height="343" alt="image" src="https://github.com/user-attachments/assets/801d6a98-7f47-40ea-980a-6ece50251cbd" />
 
 <!--
 **Goos3Juic3/Goos3Juic3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
